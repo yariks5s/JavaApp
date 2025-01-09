@@ -48,4 +48,4 @@ java -cp out supercity.Main
 ---
 
 ## uml діаграми
-*тут буде фото*
+![alt text](image.png)
